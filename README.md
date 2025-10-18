@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Gaurav%20Kumar&fontAlign=50&fontAlignY=35&color=0:1e3c72,100:2a5298&fontColor=ffffff" alt="Gaurav Kumar banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Gaurav%20Kumar&fontAlign=50&fontAlignY=35&color=0:ff416c,100:ff4b2b&fontColor=ffffff" alt="Gaurav Kumar banner"/>
 </p>
+
 
 <!-- Typing animation -->
 <!-- Typing animation -->
